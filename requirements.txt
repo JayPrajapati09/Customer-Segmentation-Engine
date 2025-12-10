@@ -1,0 +1,6 @@
+pandas
+sci-py
+matplotlib
+seaborn
+plotly
+optuna
