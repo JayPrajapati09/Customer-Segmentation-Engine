@@ -1,0 +1,8 @@
+,cluster,Age_Segment,Credit_Segment,Duration_Segment,Sex_Segment,Housing_Segment,Purpose_Segment,Job_Segment,Business Profile
+0,0,Older,Very High Spender,Long,male,own,car,2,High Risk / High Reward.
+1,1,Very Young,Very Low Spender,Short,male,own,radio/TV,2,Medium Risk / Low Reward
+2,2,Young,High Spender,Medium,female,rent,car,2,Low Risk / Medium Reward
+3,3,Young,Low Spender,Very Short,male,free,car,2,Lowest Risk / Low Reward
+4,4,,,,female,own,radio/TV,2,
+5,5,,,,female,rent,car,2,
+6,6,,,,female,own,car,2,
