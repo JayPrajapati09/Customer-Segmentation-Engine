@@ -1,5 +1,6 @@
 pandas
-sci-py
+sci-py 
+scikit-learn
 matplotlib
 seaborn
 plotly
